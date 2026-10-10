@@ -1,0 +1,9 @@
+pandas
+pymupdf==1.28.2
+pytesseract
+python-dotenv
+openai
+sentence-transformers
+streamlit
+pymupdf4llm
+einops
